@@ -12,6 +12,6 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "grunt-gh-pages": "~0.9.0"
+    "grunt-gh-pages": "~0.10.0"
   }
 }
